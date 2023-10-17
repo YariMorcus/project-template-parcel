@@ -1,6 +1,6 @@
 # Frontend Mentor - [Challenge name]
 
-This is a solution to the [[Challenge name] challenge on Frontend Mentor](insert-challenge-link). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [[challenge name] challenge on Frontend Mentor](insert-challenge-link). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ### Difficulty: `[challenge difficulty]`
 
@@ -21,7 +21,7 @@ This is a solution to the [[Challenge name] challenge on Frontend Mentor](insert
 
 ### The challenge
 
-To build the [Challenge name] according to the given designs as close as possible.
+To build the [challenge name] according to the given designs as close as possible.
 The users should be able to:
 
 [//]: # 'Insert requirements below'
