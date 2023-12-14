@@ -2,7 +2,7 @@
 
 This is a solution to the [[challenge name] challenge on Frontend Mentor](insert-challenge-link). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-### Difficulty: `[challenge difficulty]`
+Difficulty: `[challenge difficulty]`
 
 [//]: # "Example for difficulty: Junior"
 [//]: # "Insert screenshot below"
