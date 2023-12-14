@@ -4,8 +4,9 @@ This is a solution to the [[challenge name] challenge on Frontend Mentor](insert
 
 ### Difficulty: `[challenge difficulty]`
 
-[//]: # 'Insert screenshot below'
-[//]: # 'In case of netlify: insert deployment status below including **Deployment status** label'
+[//]: # "Example for difficulty: Junior"
+[//]: # "Insert screenshot below"
+[//]: # "In case of netlify: insert deployment status below including **Deployment status** label"
 
 ## Table of contents
 
@@ -24,22 +25,22 @@ This is a solution to the [[challenge name] challenge on Frontend Mentor](insert
 To build the [challenge name] according to the given designs as close as possible.
 The users should be able to:
 
-[//]: # 'Insert requirements below'
+[//]: # "Insert requirements below"
 
 ### Links
 
 - Solution URL: [Open GitHub repository](fill-in-github-repository-link)
 
-[//]: # 'Insert following when online: - Live Site URL: [open Netlify / GitHub page][fill in link]'
+[//]: # "Insert following when online: - Live Site URL: [open Netlify / GitHub page][fill in link]"
 
 ## Project information
 
 ### User stories and features
 
-[//]: # '1. As a user I want to generate a new piece of advice so I might be able to learn something from it'
-[//]: # '**Feature**: A button that generates a new piece of advice based on an API call'
-[//]: # 'Optional: ### Flowchart'
-[//]: # 'Optional: insert flowchart link below'
+[//]: # "1. As a user I want to generate a new piece of advice so I might be able to learn something from it"
+[//]: # "**Feature**: A button that generates a new piece of advice based on an API call"
+[//]: # "Optional: ### Flowchart"
+[//]: # "Optional: insert flowchart link below"
 
 ## Author
 
