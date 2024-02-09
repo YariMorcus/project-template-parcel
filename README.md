@@ -6,7 +6,6 @@ Difficulty: `[challenge difficulty]`
 
 [//]: # "Example for difficulty: junior"
 [//]: # "Insert screenshot below"
-[//]: # "In case of netlify: insert deployment status below including **Deployment status** label"
 
 ## Table of contents
 
@@ -17,6 +16,10 @@ Difficulty: `[challenge difficulty]`
   - [User stories and features](#user-stories-and-features)
   - [Flowchart](#flowchart)
 - [Author](#author)
+
+[//]: # "## Deployment status"
+
+[//]: # "In case of netlify: insert deployment status on this line"
 
 ## Overview
 
