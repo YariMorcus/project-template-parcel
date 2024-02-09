@@ -4,7 +4,7 @@ This is a solution to the [[challenge name] challenge on Frontend Mentor](insert
 
 Difficulty: `[challenge difficulty]`
 
-[//]: # "Example for difficulty: Junior"
+[//]: # "Example for difficulty: junior"
 [//]: # "Insert screenshot below"
 [//]: # "In case of netlify: insert deployment status below including **Deployment status** label"
 
@@ -33,9 +33,9 @@ The users should be able to:
 
 [//]: # "Insert following when online: - Live Site URL: [open Netlify / GitHub page][fill in link]"
 
-## Project information
+[//]: # "## Project information"
 
-### User stories and features
+[//]: # "### User stories and features"
 
 [//]: # "1. As a user I want to generate a new piece of advice so I might be able to learn something from it"
 [//]: # "**Feature**: A button that generates a new piece of advice based on an API call"
